@@ -1,2 +1,1 @@
-login feature
-new
+def validate_login(): pass
