@@ -1,2 +1,1 @@
-something bad
-realy bad
+refresh token endpoint
